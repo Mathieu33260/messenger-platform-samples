@@ -1,21 +1,20 @@
-<h1 align="center">🔥 Welcome Brave Developer! 🔥</h1>
-  
-This repo contains sample applications that will help you learn to build awesome experiences on the Messenger Platform. 
+# Webview Tutorial - Finished Project
 
-### New to the Platform?
+This is the final code for the [Messenger Platform Webview tutorial](https://blog.messengerdevelopers.com/using-the-webview-to-create-richer-bot-to-user-interactions-ed8a789523c6).
 
-Have a look at the [Introduction section](https://developers.facebook.com/docs/messenger-platform/getting-started) of the docs
+If you want to follow the quick start from scratch, download the starter code from the [tutorial-starters branch](https://github.com/fbsamples/messenger-platform-samples/tree/tutorial-starters/webview) of this repo.
 
-### Looking to get started?
+To run the project make sure you add your details to the _.env_ file and to _public/options.html_. Then run:
 
-Check out the [Get Started section](https://developers.facebook.com/docs/messenger-platform/getting-started) of the docs for a complete walkthrough of everything you need to know.
-
-You can also try out our [quick start tutorial](https://developers.facebook.com/docs/messenger-platform/getting-started/quick-start) to build your first Messenger experience right now!
+```bash
+npm install
+npm run start
+```
 
 ### More Resources
 
 To learn more about the Messenger Platform, check out these other resources:
 
-- **[📚 Docs Docs Docs](https://developers.facebook.com/docs/messenger-platform/)**: Learn about all the features available for building awesome Messenger experiences.
+- **[📚 Docs Docs Docs](https://developers.facebook.com/docs/messenger-platform/)**: Learn about all the features available for building awesome Messenger bots.
 - **[📱 Advanced Sample Apps](https://github.com/fbsamples/messenger-bot-samples)**: Download our samples that show off some of the Platform's most popular features.
 - **[😺 Developer Community](https://www.facebook.com/groups/messengerplatform/)**: Join our developer community! Get help. Give help. Ship ❤️
